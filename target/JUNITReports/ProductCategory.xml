@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.86" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Adding Personal Care Products to Cart on Apollo Pharmacy Website" name="Search for Any Product" time="12.655">
+<system-out><![CDATA[
+Given User is on the Apollo Pharmacy website................................passed
+When User navigate to the Medicines section.................................passed
+And User clicks on Apollo Products under Shop By Category...................passed
+And User selects Category Filter............................................passed
+And User selects the Baby Care Category from the given list.................passed
+And User Sort the products in ascending price range.........................passed
+Then the User should see all the products...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
